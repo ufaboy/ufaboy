@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AzaT</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🔭 I’m currently working on [Letteros](https://letteros.com)
+- 🔭 I’m currently working on [ForestVPN]([https://letteros.com](https://forestvpn.com/))
 
 - 🌱 I’m currently learning **TS, Jest, VTU**
 
