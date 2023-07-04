@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, I'm AzaT</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🔭 I’m currently working on [ForestVPN]([https://letteros.com](https://forestvpn.com/))
-
-- 🌱 I’m currently learning **TS, Jest, VTU**
-
-- 👨‍💻 All of my projects are available at [https://ufaboy.github.io](https://ufaboy.github.io)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ufaboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ufaboy" height="30" width="40" /></a>
